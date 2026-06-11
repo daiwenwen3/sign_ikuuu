@@ -21,6 +21,8 @@ ccc@qq.com:qwerty
 一行一个账号。不要加空格。
 
 ### 下面为[Server酱3](https://sc3.ft07.com/)消息推送（选填）
+SendKey
+
 ```
 SCKEY
 ```
