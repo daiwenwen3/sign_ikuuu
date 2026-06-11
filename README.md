@@ -23,11 +23,12 @@ ccc@qq.com:qwerty
 ### 下面为[Server酱3](https://sc3.ft07.com/)消息推送（选填）
 SendKey
 
-```
+
 SCKEY
 ```
 你的SendKey
 ```
+
 ### ✅ 第三步：测试运行
 
 点击上方 Actions
