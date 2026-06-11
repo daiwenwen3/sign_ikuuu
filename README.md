@@ -20,33 +20,12 @@ ccc@qq.com:qwerty
 ```
 一行一个账号。不要加空格。
 
-### 下面为企业微信消息推送（选填）
-
-1Name: 
+### 下面为[Server酱3](https://sc3.ft07.com/)消息推送（选填）
 ```
-WX_AGENTID
+SCKEY
 ```
-Secret:
+你的SendKey
 ```
-填你的企业微信应用ID
-```
-2Name: 
-```
-WX_CORPID
-```
-Secret:
-```
-填你的企业微信ID
-```
-3Name: 
-```
-WX_CORPSECRET
-```
-Secret:
-```
-填你的企业微信应用密钥
-```
-
 ### ✅ 第三步：测试运行
 
 点击上方 Actions
