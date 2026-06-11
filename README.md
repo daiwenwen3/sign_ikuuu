@@ -24,7 +24,7 @@ ccc@qq.com:qwerty
 SendKey
 
 
-SCKEY
+SCKEY：
 ```
 你的SendKey
 ```
