@@ -2,7 +2,7 @@ name: Auto Sign-in for BBS
 
 on:
   schedule:
-    - cron: '10 23 * * *'
+    - cron: '35 1 * * *'
   workflow_dispatch:
 
 jobs:
